@@ -32,8 +32,9 @@ LeetmusQL is a software platform designed to deliver Computer-Based Tests (CBT) 
 
 * **Backend:** Python (with Flask framework)
 * **Frontend:** JavaScript (with Bootstrap library)
-* **Database:** SQLite & SQLAlchemy (orm)
+* **Database:** SQLite & SQLAlchemy (form)
 
+View the project via this [link](https://leetmusql.onrender.com/)
 
 ### Getting Started
 
@@ -62,5 +63,17 @@ $ python3 run.py
 # or using gunicorn
 $ gunicorn run:app
 ```
+#### Usage
+This project MVP can be set up and used by schools and other educational organisations.
 
+#### Contributing
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+# Fork the Project
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+Push to the Branch (git push origin feature/AmazingFeature)
+Open a Pull Request
+License
+Distributed under the MIT License. See LICENSE for more information
 
